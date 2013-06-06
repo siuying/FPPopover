@@ -58,7 +58,7 @@
         self.clipsToBounds = YES;
         
         self.layer.shadowOpacity = 0.7;
-        self.layer.shadowRadius = 5;
+        self.layer.shadowRadius = 3.0;
         self.layer.shadowOffset = CGSizeMake(-3, 3);
 
         //to get working the animations
