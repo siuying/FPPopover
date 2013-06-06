@@ -20,7 +20,7 @@
 {
     [super viewDidLoad];
     
-    self.title = @"Popover Title";
+    //self.title = @"Popover Title";
 }
 
 
